@@ -47,3 +47,7 @@ Install these libraries (already included in Colab):
 
 ```bash
 pip install yfinance pandas matplotlib
+
+
+
+Thankyou
