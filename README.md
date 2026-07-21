@@ -10,7 +10,7 @@ A simple yet powerful backtesting script that simulates a **moving average cross
 - Implements a customizable **Moving Average Crossover** strategy
 - Backtests performance and visualizes equity curve
 - Shows total return and win rate
-- Clean and modular code (easy to upgrade later)
+- Clean and modular code 
 
 ---
 
