@@ -5,7 +5,6 @@ A simple yet powerful backtesting script that simulates a **moving average cross
 ---
 
 ## ⚙️ Features
-
 - Pulls real historical data (e.g., Bitcoin) using `yfinance`
 - Implements a customizable **Moving Average Crossover** strategy
 - Backtests performance and visualizes equity curve
